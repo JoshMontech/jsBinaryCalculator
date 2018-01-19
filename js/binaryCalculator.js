@@ -83,7 +83,6 @@ eql.addEventListener('click', function() {
 
         console.log("results after multiplying",val = val.slice(0, botIndex) + output + val.slice(topIndex+1, val.length));
 
-         // console.log("what's left: " + val);
       }
 
        else if (val[i] == '/') {
